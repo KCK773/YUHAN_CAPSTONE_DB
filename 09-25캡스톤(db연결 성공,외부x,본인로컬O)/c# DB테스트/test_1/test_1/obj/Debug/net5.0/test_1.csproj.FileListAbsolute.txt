@@ -1,0 +1,70 @@
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.exe
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.deps.json
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.runtimeconfig.json
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.runtimeconfig.dev.json
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\ref\test_1.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.pdb
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.AssemblyReference.cache
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.AssemblyInfoInputs.cache
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.AssemblyInfo.cs
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.CoreCompileInputs.cache
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.CopyComplete
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\ref\test_1.dll
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.pdb
+C:\Users\alzhx\Desktop\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.genruntimeconfig.cache
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.exe
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.deps.json
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.runtimeconfig.json
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.runtimeconfig.dev.json
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\ref\test_1.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\test_1.pdb
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.AssemblyReference.cache
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.AssemblyInfoInputs.cache
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.AssemblyInfo.cs
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.CoreCompileInputs.cache
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.csproj.CopyComplete
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\ref\test_1.dll
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.pdb
+C:\Users\alzhx\Desktop\학교-20210925T031433Z-001\학교\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-25캡스톤(db연결 성공,외부x,본인로컬O)\c# DB테스트\test_1\test_1\obj\Debug\net5.0\test_1.genruntimeconfig.cache

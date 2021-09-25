@@ -1398,11 +1398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\test_cap\\test_cap\\test_cap.csproj",
+      "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\test_cap_09-08(오류)\\test_cap\\test_cap.csproj",
       "projectName": "test_cap",
-      "projectPath": "C:\\Users\\alzhx\\Desktop\\test_cap\\test_cap\\test_cap.csproj",
+      "projectPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\test_cap_09-08(오류)\\test_cap\\test_cap.csproj",
       "packagesPath": "C:\\Users\\alzhx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alzhx\\Desktop\\test_cap\\test_cap\\obj\\",
+      "outputPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\test_cap_09-08(오류)\\test_cap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alzhx\\AppData\\Roaming\\NuGet\\NuGet.Config",

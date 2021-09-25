@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mm+kNJcKxZQIFwzxPMD2M76Qx0PsgrHGGCr/zouC4IyMkkg/XM8OdEWxUZPPGoGFuQ8RZv0VaR/GD0U2I9OfHw==",
+  "dgSpecHash": "i1R0hxqYP8crCiad1V/PAsCCvd/oi5g5D9vYymqRv0ZkVTBTv3y+JfMIEo8IZi0ZIkV2tszOb+p9fxLXkQ7uOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\test_cap\\test_cap\\test_cap.csproj",
+  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\test_cap_09-08(오류)\\test_cap\\test_cap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
