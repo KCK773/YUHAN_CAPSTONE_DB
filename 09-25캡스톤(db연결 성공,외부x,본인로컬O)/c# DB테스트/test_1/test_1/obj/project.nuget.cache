@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sEpoQuKjHhdGMguULhKnntVEijUAL5jDeZwGdTg0EFz3siuooQ1gObP7B8SU4JTtb/uON7QPyNb5bzdTS1lWpw==",
+  "dgSpecHash": "/QXvQzGA0yvscX/u9Szj7gBEXLzTCHSSbwyZAS4+9Vv1Ui/9hoHhno/gy2XrHRxEbB8sS+HKAdjSe9bnXRZOTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
+  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

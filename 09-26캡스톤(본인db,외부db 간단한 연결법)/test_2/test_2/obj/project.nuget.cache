@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+tMm6wH40MKvVj8sTFACi4bouQDdWr1Nk9WhuKruXmQxYHllf20m6HDqjPfu2IASBFBpEGcYAdPwfP6cr7BXg==",
+  "dgSpecHash": "q8oCCWY8Yh2I0XKNc6lawyimknIVgKhtGLH7YU0xqiFT27O3o1CSkbdu4V8QnzX1adbR7qjoCc3AcS5BiURt1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\test_2.csproj",
+  "projectFilePath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\test_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\alzhx\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

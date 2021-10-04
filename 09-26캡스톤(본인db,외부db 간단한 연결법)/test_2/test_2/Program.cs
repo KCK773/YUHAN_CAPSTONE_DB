@@ -19,7 +19,7 @@ namespace test_2
             //다른 사람의 주소에 들어갈 경우에는 그 사람의 ip주소를 입력하는 식으로 사용하게 된다.
 
             //tnsnames.ora 를 사용ㅎ지 않고 직접 네트워크 연결정보를 넣어서 사용할 수도 있다.
-            string s = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=capid;Password=cappw;";
+            string s = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=125.186.182.181)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=xe)));User Id=scott;Password=tiger;";
             conn = new OracleConnection(s);
             conn.Open();
             conn.Close();

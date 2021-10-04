@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\test_2.csproj": {}
+    "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\test_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\test_2.csproj": {
+    "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\test_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\test_2.csproj",
+        "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\test_2.csproj",
         "projectName": "test_2",
-        "projectPath": "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\test_2.csproj",
+        "projectPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\test_2.csproj",
         "packagesPath": "C:\\Users\\alzhx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alzhx\\Desktop\\test_2\\test_2\\obj\\",
+        "outputPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-26캡스톤(본인db,외부db 간단한 연결법)\\test_2\\test_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alzhx\\AppData\\Roaming\\NuGet\\NuGet.Config",

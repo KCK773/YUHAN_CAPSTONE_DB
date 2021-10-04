@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = test_2
-build_property.ProjectDir = C:\Users\alzhx\Desktop\test_2\test_2\
+build_property.ProjectDir = C:\Users\alzhx\Desktop\캡스톤\CAP_DB\YUHAN_CAPSTONE_DB\09-26캡스톤(본인db,외부db 간단한 연결법)\test_2\test_2\

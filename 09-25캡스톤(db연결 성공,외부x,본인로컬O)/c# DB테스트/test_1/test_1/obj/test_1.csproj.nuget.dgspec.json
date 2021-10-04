@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj": {}
+    "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj": {
+    "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
+        "projectUniqueName": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
         "projectName": "test_1",
-        "projectPath": "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
+        "projectPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\test_1.csproj",
         "packagesPath": "C:\\Users\\alzhx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alzhx\\Desktop\\학교-20210925T031433Z-001\\학교\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\obj\\",
+        "outputPath": "C:\\Users\\alzhx\\Desktop\\캡스톤\\CAP_DB\\YUHAN_CAPSTONE_DB\\09-25캡스톤(db연결 성공,외부x,본인로컬O)\\c# DB테스트\\test_1\\test_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alzhx\\AppData\\Roaming\\NuGet\\NuGet.Config",

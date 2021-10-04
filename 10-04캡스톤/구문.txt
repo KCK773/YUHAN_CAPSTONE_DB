@@ -1,0 +1,70 @@
+  
+학생
+
+1  create table stu(
+  2  id varchar2(15) constraint stu_pk primary key,
+  3  pw varchar2(20) not null,
+     stu_no varchar2(15) not null,
+  4* name varchar2(10) not null)
+
+로그인
+SQL> create table login_stu(
+  2  id varchar2(15) PRIMARY KEY,
+  3  PW VARCHAR2(20),
+  4  NAME VARCHAR2(10));
+
+----------------------------------------------------------------
+
+교수
+
+SQL> create table prf(
+  2  id varchar2(15) constraint prf_id_pk primary key,
+  3  pw varchar2(20) not null,
+      prf_no varchar2(15) not null,
+  4  name varchar2(10) not null);
+
+로그인
+SQL> create table login_prf(
+  2  id varchar2(15) primary key,
+  3  pw varchar2(20),
+  4  name varchar2(10));
+---------------------------------------------------------------
+
+강의
+
+  1  create table lec(
+  2  lec_code varchar2(10) constraint lec_code_pk primary key,
+  3  prf_id varchar2(15) constraint lec_prfid_fk references prf(id),
+  4  lec_name varchar2(30) not null,
+  5  credit number,
+  6  day varchar2(10) not null,
+  7  s_time date,
+  8* e_time date)
+
+--------------------------------------------------------------------------------
+
+학생별 수강 목록
+
+create table stu_list(
+stu_id varchar2(15),
+lec_code varchar2(10),
+constraint stuList_stuId_fk foreign key(stu_id) references stu(id),
+constraint stuList_lecCode_fk foreign key(lec_code) references lec(lec_code),
+constraint stuList_pk primary key(lec_code, stu_id));
+
+-----------------------------------------------------------------------------------
+
+출석 테이블
+
+create table check_table (
+stu_no varchar2(15),
+lec_code varchar2(10),
+week number,
+week_1 varchar2(3),
+week_2 varchar2(3),
+week_3 varchar2(3),
+constraint check_stuNo_fk foreign key(stu_no) references stu(stu_no),
+constraint check_lecCode_fk foreign key(lec_code) references lec(lec_code),
+constraint check_pk primary key(stu_no, lec_code, week))
+/
+
