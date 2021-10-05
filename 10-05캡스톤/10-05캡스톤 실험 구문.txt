@@ -1,0 +1,107 @@
+출석 테이블 2안 생성
+create table test_attendance_02(
+attendance_code varchar2(20) primary key,
+stu_no varchar2(15),
+lec_code varchar2(10),
+week_count number,
+constraint fk_stu foreign key(stu_no) references stu(stu_no),
+constraint fk_lec foreign key(lec_code) references lec(lec_code)
+);
+
+----------------------------------------------------------------------
+
+출석 테이블 2안 교시별 출석테이블
+create table test_attendance_02_firstclass(
+attendance_code varchar2(20) primary key,
+att_inf varchar2(10),
+constraint fk_attendance_1 foreign key(attendance_code) references test_attendance_02(attendance_code)
+);
+
+create table test_attendance_02_secondclass(
+attendance_code varchar2(20) primary key,
+att_inf varchar2(10),
+constraint fk_attendance_2 foreign key(attendance_code) references test_attendance_02(attendance_code)
+);
+
+create table test_attendance_02_thirdclass(
+attendance_code varchar2(20) primary key,
+att_inf varchar2(10),
+constraint fk_attendance_3 foreign key(attendance_code) references test_attendance_02(attendance_code)
+);
+
+-------------------------------------------------------------------------
+
+출석 테이블 2안 생성 데이터 삽입
+insert into test_attendance_02
+values( 'test_01' , '201607009' , '022' , 01 );
+
+--------------------------------------------------------------------------
+교시별 데이터 삽입
+insert into test_attendance_02_firstclass
+values( 'test_01' , null);
+
+insert into test_attendance_02_secondclass
+values( 'test_01' , null);
+
+insert into test_attendance_02_thirdclass
+values( 'test_01' , null);
+
+-------------------------------------------------------------------------
+출석정보 갱신 프로시저
+입력 프로시저(학생학번, 강의코드, 주차, 출결처리)(0결석 , 1출석, 2지각)
+create or replace procedure update_att_firstclass(v_stu_no in varchar2 , v_lec_code in varchar2 , v_week_count in number, v_att_inf in varchar2)
+is
+v_attendance_code varchar2(20);
+begin
+select attendance_code
+into v_attendance_code
+from test_attendance_02
+where stu_no = v_stu_no and lec_code = v_lec_code and week_count = v_week_count;
+update test_attendance_02_firstclass
+set
+att_inf = v_att_inf
+where
+attendance_code = v_attendance_code;
+end;
+/
+
+create or replace procedure update_att_secondclass(v_stu_no in varchar2 , v_lec_code in varchar2 , v_week_count in number, v_att_inf in varchar2)
+is
+v_attendance_code varchar2(20);
+begin
+select attendance_code
+into v_attendance_code
+from test_attendance_02
+where stu_no = v_stu_no and lec_code = v_lec_code and week_count = v_week_count;
+update test_attendance_02_secondclass
+set
+att_inf = v_att_inf
+where
+attendance_code = v_attendance_code;
+end;
+/
+
+create or replace procedure update_att_thirdclass(v_stu_no in varchar2 , v_lec_code in varchar2 , v_week_count in number, v_att_inf in varchar2)
+is
+v_attendance_code varchar2(20);
+begin
+select attendance_code
+into v_attendance_code
+from test_attendance_02
+where stu_no = v_stu_no and lec_code = v_lec_code and week_count = v_week_count;
+update test_attendance_02_thirdclass
+set
+att_inf = v_att_inf
+where
+attendance_code = v_attendance_code;
+end;
+/
+----------------------------------------------------------------------
+프로시저 실행
+exec update_att_firstclass('201607009' , '022' , 01 , '0')
+exec update_att_secondclass('201607009' , '022' , 01 , '1')
+exec update_att_thirdclass('201607009' , '022' , 01 , '2')
+확인 완료 했구요잉 푸흐흐
+
+
+
