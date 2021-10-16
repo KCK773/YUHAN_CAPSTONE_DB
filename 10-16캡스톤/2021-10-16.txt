@@ -1,0 +1,4 @@
+id :  c##capstone_admin
+pw :  yuhanunivcapstone1212
+접속 ip : 222.239.64.185
+db명 : deskDB
